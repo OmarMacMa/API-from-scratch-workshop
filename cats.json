@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "breed": "Siamese",
+        "life_span": 16,
+        "size": "medium",
+        "image": "https://api-ninjas.com/images/cats/siamese_cat.jpg"
+    },
+    {
+        "id": 2,
+        "breed": "Abyssinian",
+        "life_span": 12,
+        "size": "medium",
+        "image": "https://api-ninjas.com/images/cats/abyssinian.jpg"
+    },
+    {
+        "id": 3,
+        "breed": "British Shorthair",
+        "life_span": 14,
+        "size": "medium",
+        "image": "https://api-ninjas.com/images/cats/british_shorthair.jpg"
+    },
+    {
+        "id": 4,
+        "breed": "Persian",
+        "life_span": 12,
+        "size": "small",
+        "image": "https://api-ninjas.com/images/cats/persian.jpg"
+    },
+    {
+        "id": 5,
+        "breed": "Bombay",
+        "life_span": 16,
+        "size": "small",
+        "image": "https://api-ninjas.com/images/cats/bombay.jpg"
+    },
+    {
+        "id": 6,
+        "breed": "Russian Blue",
+        "life_span": 12,
+        "size": "small",
+        "image": "https://api-ninjas.com/images/cats/russian_blue.jpg"
+    },
+    {
+        "id": 7,
+        "breed": "Chartreux",
+        "life_span": 13,
+        "size": "small",
+        "image": "https://api-ninjas.com/images/cats/chartreux.jpg"
+    },
+    {
+        "id": 8,
+        "breed": "Maine Coon",
+        "life_span": 12,
+        "size": "large",
+        "image": "https://api-ninjas.com/images/cats/maine_coon.jpg"
+    }
+]

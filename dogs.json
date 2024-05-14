@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Pug",
+        "size": "small",
+        "life_span": 14,
+        "energy": 3,
+        "barking": 1,
+        "image": "https://api-ninjas.com/images/dogs/pug.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Golden Retriever",
+        "size": "large",
+        "life_span": 11,
+        "energy": 3,
+        "barking": 1,
+        "image": "https://api-ninjas.com/images/dogs/golden_retriever.jpg"
+    },
+    {
+        "id": 3,
+        "name": "German Shepherd",
+        "size": "large",
+        "life_span": 9,
+        "energy": 5,
+        "barking": 3,
+        "image": "https://api-ninjas.com/images/dogs/german_shepherd_dog.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Beagle",
+        "size": "small",
+        "life_span": 12,
+        "energy": 4,
+        "barking": 4,
+        "image": "https://api-ninjas.com/images/dogs/beagle.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bulldog",
+        "size": "medium",
+        "life_span": 11,
+        "energy": 0,
+        "barking": 1,
+        "image": "https://api-ninjas.com/images/dogs/american_bulldog.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Poodle",
+        "size": "medium",
+        "life_span": 14,
+        "energy": 4,
+        "barking": 4,
+        "image": "https://api-ninjas.com/images/dogs/poodle_(standard).jpg"
+    },
+    {
+        "id": 7,
+        "name": "Rottweiler",
+        "size": "large",
+        "life_span": 9,
+        "energy": 3,
+        "barking": 3,
+        "image": "https://api-ninjas.com/images/dogs/rottweiler.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Border Collie",
+        "size": "medium",
+        "life_span": 13,
+        "energy": 5,
+        "barking": 4,
+        "image": "https://api-ninjas.com/images/dogs/border_collie.jpg"
+    }
+]
